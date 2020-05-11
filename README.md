@@ -25,9 +25,15 @@ Contenido:
 In this work we used html5 and bootstrap.
 
 Content:
+
 -Navbar
+
 -Information area
+
 -Style to add videos within the information area
+
 -Card with redirection to your docs
+
 -Comparative table to identify the differences between each mentioned topic
+
 -Footer
