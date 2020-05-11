@@ -7,11 +7,17 @@ website made for educational purposes | web realizada con un fin educativo
 En este trabajo se utilizó html5 y bootstrap.
 
 Contenido: 
+
 -Navbar
+
 -Área de información
+
 -Estilo para agregar videos dentro del área de información
+
 -Card con redireccionamiento a sus docs
+
 -Cuadro comparativo para identificar las diferencias entre cada tema mencionado
+
 -Footer
 
 [ENG]
